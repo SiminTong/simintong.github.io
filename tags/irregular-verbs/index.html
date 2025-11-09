@@ -69,15 +69,41 @@
 </head>
 
 <body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    }
+
+</script>
 
 <header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="http://localhost:1313/home/" accesskey="h" title="Simin Tong">
-                <img src="http://localhost:1313/home/favicon.ico" alt="" aria-label="logo"
+                <img src="http://localhost:1313/home/IMG01.jpeg" alt="" aria-label="logo"
                     height="18"
                     width="18">Simin Tong</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
@@ -123,36 +149,6 @@
   <footer class="entry-footer"><span title='2013-03-07 00:00:00 +0000 UTC'>March 2013</span>&nbsp;&middot;&nbsp;Patrick Fitzcarron O'Leary,&thinsp;Florianus Prinzel,&thinsp;Walter Schoeffler-Henschell,&thinsp;Detlev Amadeus Unterholzer,&thinsp;Dieter Vogelsang,&thinsp;Moritz-Maria von Igelfeld</footer>
   <a class="entry-link" aria-label="post link to List of Irregular Verbs Across Romance Languages" href="http://localhost:1313/home/data/data1/"></a>
 </article>
-
-<article class="post-entry tag-entry"> 
-<figure class="entry-cover">
-            <img loading="lazy" src="http://localhost:1313/home/courses/course1/course1.png" alt="Villa of Reduced Circumstances">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Lectures at the Villa of Reduced Circumstances
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs.</p>
-  </div>
-  <footer class="entry-footer"><span title='2003-03-10 00:00:00 +0000 UTC'>March 2003</span>&nbsp;&middot;&nbsp;Moritz-Maria von Igelfeld</footer>
-  <a class="entry-link" aria-label="post link to Lectures at the Villa of Reduced Circumstances" href="http://localhost:1313/home/courses/course1/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-<figure class="entry-cover">
-            <img loading="lazy" src="http://localhost:1313/home/books/book1/book1.png" alt="Portugese Irregular Verbs">
-</figure>
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Portugese Irregular Verbs
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>This book discusses Portugese irregular verbs in great details.</p>
-  </div>
-  <footer class="entry-footer"><span title='1997-01-01 00:00:00 +0000 UTC'>January 1997</span>&nbsp;&middot;&nbsp;Moritz-Maria von Igelfeld</footer>
-  <a class="entry-link" aria-label="post link to Portugese Irregular Verbs" href="http://localhost:1313/home/books/book1/"></a>
-</article>
     </main>
     
 <footer class="footer">
@@ -191,6 +187,18 @@
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>
