@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Simin Tong</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>http://localhost:1313/tags/career/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fellowships</title>
+      <link>http://localhost:1313/tags/fellowships/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fellowships/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PhD Student</title>
+      <link>http://localhost:1313/tags/phd-student/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/phd-student/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postdoc</title>
+      <link>http://localhost:1313/tags/postdoc/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/postdoc/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

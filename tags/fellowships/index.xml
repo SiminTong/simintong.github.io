@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fellowships on Simin Tong</title>
+    <link>http://localhost:1313/tags/fellowships/</link>
+    <description>Recent content in Fellowships on Simin Tong</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fellowships/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postdoctoral fellowships</title>
+      <link>http://localhost:1313/resources/fellowships/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/fellowships/</guid>
+      <description>This collection summarises postdoctoral fellowship opportunities, including nationwide and institutional opportunities, as well as and all-subject and astronomy-speicific opportunites. This collection focusses on the programmes for researchers who have recently obtained thier PhD degrees.</description>
+    </item>
+  </channel>
+</rss>
