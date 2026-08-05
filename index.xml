@@ -2,38 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Simin Tong</title>
-    <link>http://localhost:1313/</link>
+    <link>https://simintong.github.io/</link>
     <description>Recent content on Simin Tong</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://simintong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Postdoctoral fellowships</title>
-      <link>http://localhost:1313/resources/fellowships/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/fellowships/</guid>
-      <description>This collection summarises postdoctoral fellowship opportunities, including nationwide and institutional opportunities, as well as and all-subject and astronomy-speicific opportunites. This collection focusses on the programmes for researchers who have recently obtained thier PhD degrees.</description>
+      <title>Interesting tools</title>
+      <link>https://simintong.github.io/resources/self_tools/self-developed_tools/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/resources/self_tools/self-developed_tools/</guid>
+      <description>This notes collect some interesting self-developed tools for arxiv browsing, plotting figures, etc.</description>
     </item>
     <item>
-      <title>Short-term academic visiting</title>
-      <link>http://localhost:1313/resources/short-term_visit/</link>
+      <title>Disc demographics</title>
+      <link>https://simintong.github.io/research/disc-demographics/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-demographics/</guid>
+      <description>Protoplanetary discs have a lifetime much longer than a human lifetime. To understand they evolve over millions of years, one of the most direct approaches is to study discs at different evolutionary stages across nearby star-forming regions. These population-level studies help us understand how stellar mass, ages, multiplicity and the external environment affect disc evolution.</description>
+    </item>
+    <item>
+      <title>Disc evolution</title>
+      <link>https://simintong.github.io/research/disc-evolution/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-evolution/</guid>
+      <description>Protoplanetary discs provide material to their central star. However, how the angular momentum in the disc is lost to enable the rotating gas to drop onto the star is a long-standing and actively debtaed question.</description>
+    </item>
+    <item>
+      <title>Disc structures</title>
+      <link>https://simintong.github.io/research/disc-structures/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-structures/</guid>
+      <description>ALMA observations have revealed that dust substructures are ubiquitous in protoplanetary discs. Many theories have been proposed to explain their origins, among which the most fascinating is the possibility that they are caused by embedded planets.</description>
+    </item>
+    <item>
+      <title>Postdoctoral fellowships</title>
+      <link>https://simintong.github.io/resources/fellowships/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/short-term_visit/</guid>
+      <guid>https://simintong.github.io/resources/fellowships/</guid>
+      <description>This collection summarises postdoctoral fellowship opportunities, including nationwide and institutional opportunities, as well as all-subject and astronomy-speicific opportunites. This collection focusses on the programmes for researchers who have recently obtained thier PhD degrees.</description>
+    </item>
+    <item>
+      <title>Short-term academic visits</title>
+      <link>https://simintong.github.io/resources/short-term_visit/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/resources/short-term_visit/</guid>
       <description>This collection summarises short-term visiting opportunities for postdoctoral researchers and PhD students.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://simintong.github.io/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://simintong.github.io/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
+      <link>https://simintong.github.io/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
+      <guid>https://simintong.github.io/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
   </channel>

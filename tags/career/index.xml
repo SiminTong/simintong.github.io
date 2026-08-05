@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Career on Simin Tong</title>
-    <link>http://localhost:1313/tags/career/</link>
+    <link>https://simintong.github.io/tags/career/</link>
     <description>Recent content in Career on Simin Tong</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://simintong.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Postdoctoral fellowships</title>
-      <link>http://localhost:1313/resources/fellowships/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/fellowships/</guid>
-      <description>This collection summarises postdoctoral fellowship opportunities, including nationwide and institutional opportunities, as well as and all-subject and astronomy-speicific opportunites. This collection focusses on the programmes for researchers who have recently obtained thier PhD degrees.</description>
+      <title>Interesting tools</title>
+      <link>https://simintong.github.io/resources/self_tools/self-developed_tools/</link>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/resources/self_tools/self-developed_tools/</guid>
+      <description>This notes collect some interesting self-developed tools for arxiv browsing, plotting figures, etc.</description>
     </item>
     <item>
-      <title>Short-term academic visiting</title>
-      <link>http://localhost:1313/resources/short-term_visit/</link>
+      <title>Postdoctoral fellowships</title>
+      <link>https://simintong.github.io/resources/fellowships/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/short-term_visit/</guid>
+      <guid>https://simintong.github.io/resources/fellowships/</guid>
+      <description>This collection summarises postdoctoral fellowship opportunities, including nationwide and institutional opportunities, as well as all-subject and astronomy-speicific opportunites. This collection focusses on the programmes for researchers who have recently obtained thier PhD degrees.</description>
+    </item>
+    <item>
+      <title>Short-term academic visits</title>
+      <link>https://simintong.github.io/resources/short-term_visit/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/resources/short-term_visit/</guid>
       <description>This collection summarises short-term visiting opportunities for postdoctoral researchers and PhD students.</description>
     </item>
   </channel>

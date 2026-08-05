@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evolution on Simin Tong</title>
+    <link>https://simintong.github.io/tags/evolution/</link>
+    <description>Recent content in Evolution on Simin Tong</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://simintong.github.io/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disc evolution</title>
+      <link>https://simintong.github.io/research/disc-evolution/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-evolution/</guid>
+      <description>Protoplanetary discs provide material to their central star. However, how the angular momentum in the disc is lost to enable the rotating gas to drop onto the star is a long-standing and actively debtaed question.</description>
+    </item>
+  </channel>
+</rss>

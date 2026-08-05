@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Protoplanetary Disc on Simin Tong</title>
+    <link>https://simintong.github.io/tags/protoplanetary-disc/</link>
+    <description>Recent content in Protoplanetary Disc on Simin Tong</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://simintong.github.io/tags/protoplanetary-disc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disc demographics</title>
+      <link>https://simintong.github.io/research/disc-demographics/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-demographics/</guid>
+      <description>Protoplanetary discs have a lifetime much longer than a human lifetime. To understand they evolve over millions of years, one of the most direct approaches is to study discs at different evolutionary stages across nearby star-forming regions. These population-level studies help us understand how stellar mass, ages, multiplicity and the external environment affect disc evolution.</description>
+    </item>
+    <item>
+      <title>Disc evolution</title>
+      <link>https://simintong.github.io/research/disc-evolution/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-evolution/</guid>
+      <description>Protoplanetary discs provide material to their central star. However, how the angular momentum in the disc is lost to enable the rotating gas to drop onto the star is a long-standing and actively debtaed question.</description>
+    </item>
+    <item>
+      <title>Disc structures</title>
+      <link>https://simintong.github.io/research/disc-structures/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://simintong.github.io/research/disc-structures/</guid>
+      <description>ALMA observations have revealed that dust substructures are ubiquitous in protoplanetary discs. Many theories have been proposed to explain their origins, among which the most fascinating is the possibility that they are caused by embedded planets.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,39 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/career/</loc>
+    <loc>https://simintong.github.io/tags/career/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/resources/self_tools/self-developed_tools/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/resources/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/tools/</loc>
+    <lastmod>2026-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/research/disc-demographics/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/research/disc-evolution/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/research/disc-structures/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/evolution/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/population/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/protoplanetary-disc/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/research/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/structures/</loc>
+    <lastmod>2026-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://simintong.github.io/tags/fellowships/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fellowships/</loc>
+    <loc>https://simintong.github.io/tags/phd-student/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/phd-student/</loc>
+    <loc>https://simintong.github.io/tags/postdoc/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/postdoc/</loc>
+    <loc>https://simintong.github.io/resources/fellowships/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/fellowships/</loc>
+    <loc>https://simintong.github.io/resources/short-term_visit/</loc>
     <lastmod>2025-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
-    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/resources/short-term_visit/</loc>
-    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/location/</loc>
+    <loc>https://simintong.github.io/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
+    <loc>https://simintong.github.io/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://simintong.github.io/archive/</loc>
   </url>
 </urlset>
